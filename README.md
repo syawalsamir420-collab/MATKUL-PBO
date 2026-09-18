@@ -36,6 +36,4 @@ Bagian ini memuat informasi profil pengguna yang terdaftar di dalam sistem:
 * **Nomor Telepon:** 081234567890 — Kontak aktif pelanggan untuk keperluan komunikasi atau verifikasi.
 * **Paket:** Paket 20 Mbps — Jenis layanan internet aktif yang sedang digunakan oleh pelanggan tersebut (terhubung langsung dengan *Data Paket Internet*).
 
-<img width="325" height="97" alt="Cuplikan layar 2026-09-19 005354" src="https://github.com/user-attachments/assets/ea94c406-ef4d-4458-b71c-ef23a867663f" />
-
-
+<img width="401" height="121" alt="Cuplikan layar 2026-09-19 005537" src="https://github.com/user-attachments/assets/028e8296-1745-4ab8-9920-061957b07cd4" />
